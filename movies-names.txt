@@ -1,0 +1,1760 @@
+1~A Flying Jatt
+2~A Gentleman
+3~A Wednesday
+4~Aa Ab Laut Chalen
+5~Aa Dekhen Zara
+6~Aa Gale Lag Jaa
+7~Aa Gaya Hero
+8~Aadmi Aur Insaan
+9~Aadmi Khilona Hai
+10~Aag Ka Gola
+11~Aaghaaz
+12~Aaina
+13~Aaj Ka Arjun
+14~Aaj Ka Boss
+15~Aaj Ka Goonda Raj
+16~Aaj Ka M.L.A. Ram Avtar
+17~Aaja Nachle
+18~Aakhree Raasta
+19~Aakrosh
+20~Aamdani Atthani Kharcha Rupaiyaa
+21~Aan Milo Sajna
+22~Aan: Men at Work
+23~Aankhen (1993)
+24~Aankhen (2002)
+25~Aap Aye Bahaar Ayee
+26~Aap Kaa Surroor
+27~Aap Ki Kasam
+28~Aap Ki Khatir
+29~Aap Mujhe Achche Lagne Lage
+30~Aarakshan
+31~Aarzoo
+32~Aashik Aawara
+33~Aashiq
+34~Aashiq Hoon Baharon Ka
+35~Aashiqui
+36~Aashiqui 2
+37~Aatank Hi Aatank
+38~Aatish
+39~Aaye Din Bahaar Ke
+40~Ab Bas!
+41~Ab Tak Chhappan
+42~Ab Tak Chhappan 2
+43~Ab Tumhare Hawale Watan Sathiyo
+44~ABCD 2: Any Body Can Dance 2
+45~ABCD: Any Body Can Dance
+46~Abhimaan
+47~Abhinetri
+48~Action Jackson
+49~Action Replayy
+50~Adalat
+51~Ae Dil Hai Mushkil
+52~Aetbaar
+53~Aflatoon
+54~Afsana Pyar Ka
+55~Agar Tum Na Hote
+56~Agent Vinod
+57~Agneekaal
+58~Agneepath (1990)
+59~Agneepath (2012)
+60~Agni Sakshi
+61~Agni Varsha
+62~Agnichakra
+63~Airlift
+64~Aisha
+65~Aitraaz
+66~Aiyaary
+67~Ajab Gazabb Love
+68~Ajab Prem Ki Ghazab Kahani
+69~Ajnabee
+70~Ajooba
+71~Akaash Vani
+72~Akashdeep
+73~Akele Hum Akele Tum
+74~Akhiyon Se Goli Maare
+75~Akira
+76~Aks
+77~Aksar
+78~Aksar 2
+79~Alaap
+80~Aladin
+81~Albela
+82~Alibaba Aur 40 Chor
+83~All Is Well
+84~All The Best
+85~Allah Rakha
+86~Alone
+87~Aloo Chaat
+88~Always Kabhi Kabhi
+89~Amar Akbar Anthony
+90~Amar Deep
+91~Amar Prem
+92~Amiri Garibi
+93~Amit Sahni Ki List
+94~An Evening In Paris
+95~Anaarkali Of Aarah
+96~Anamika
+97~Anand
+98~Anari
+99~Anari No. 1
+100~Anarkali
+101~Andaaz
+102~Andar Baahar
+103~Andaz Apna Apna
+104~Andhaa Kaanoon
+105~Andolan
+106~Angaaray (1986)
+107~Angaaray (1998)
+108~Angoor
+109~Angrakshak
+110~Anjaam
+111~Anjaana Anjaani
+112~Ankush
+113~Anna
+114~Annarth
+115~Anth
+116~Anthony Kaun Hai?
+117~Anurodh
+118~Apaharan
+119~Apna Haath Jagannath
+120~Apna Sapna Money Money
+121~Apne
+122~Appu Raja
+123~Apradhi
+124~Aradhana
+125~Ardh Satya
+126~Arjun
+127~Arjun Pandit
+128~Armaan
+129~Army
+130~Around The World
+131~Asli Naqli
+132~Asoka
+133~Atithi Tum Kab Jaoge
+134~Aunty No. 1
+135~Aurangzeb
+136~Auzaar
+137~Avtaar
+138~Awaargi
+139~Awara
+140~Awara Paagal Deewana
+141~Awarapan
+142~Awwal Number
+143~Aya Sawan Jhoom Ke
+144~Ayee Milan Ki Bela
+145~Azaad
+146~Azhar
+147~B.A. Pass
+148~Baabul
+149~Baadshah
+150~Baadshaho
+151~Baaghi
+152~Baaghi 2
+153~Baaghi: A Rebel For Love
+154~Baali Umar Ko Salaam
+155~Baap Numbri Beta Dus Numbri
+156~Baar Baar Dekho
+157~Baarish
+158~Baat Ban Jaye
+159~Baaz: A Bird in Danger
+160~Baazi
+161~Baazigar
+162~Babul
+163~Babumoshai Bandookbaaz
+164~Baby
+165~Bachke Rehna Re Baba
+166~Bachna Ae Haseeno
+167~Badal
+168~Bade Miyan Chote Miyan
+169~Badhaai Ho Badhaai
+170~Badlapur
+171~Badmaash Company
+172~Badmashiyaan
+173~Badrinath Ki Dulhania
+174~Baghban
+175~Bahubali 2: The Conclusion
+176~Bahubali: The Beginning
+177~Baiju Bawra
+178~Bairaag
+179~Bajatey Raho
+180~Bajirao Mastani
+181~Bajrangi Bhaijaan
+182~Balika Badhu
+183~Balwaan
+184~Banarasi Babu
+185~Band Baaja Baaraat
+186~Bandhan
+187~Bandhan Kuchchey Dhaagon Ka
+188~Bandook Dahej Ke Seenay Par
+189~Bang Bang
+190~Banjo
+191~Bank Chor
+192~Bardaasht
+193~Bareilly Ki Barfi
+194~Barfi
+195~Barkhaa
+196~Barood: The Fire
+197~Barsaat
+198~Bas Ek Pal
+199~Bas Itna Sa Khwaab Hai
+200~Basant
+201~Batwara
+202~Bawarchi
+203~Bbuddah Hoga Terra Baap
+204~Bees Saal Baad
+205~Befikre
+206~Begum Jaan
+207~Behen Hogi Teri
+208~Beiimaan Love
+209~Bekhudi
+210~Bemisal
+211~Benaam
+212~Benaam Badsha
+213~Benazir
+214~Besharam
+215~Beta
+216~Betaab
+217~Betaaj Badshah
+218~Bewafaa
+219~Bewakoofiyaan
+220~Bhaag Johnny
+221~Bhaag Milkha Bhaag
+222~Bhagam Bhag
+223~Bhagyawan
+224~Bhai
+225~Bheja Fry
+226~Bheja Fry 2
+227~Bhindi Baazaar Inc.
+228~Bhool Bhulaiyaa
+229~Bhoomi
+230~Bhoot Bungla
+231~Bhoot Unkle
+232~Bhoothnath Returns
+233~Bichhoo
+234~Big Brother
+235~Billoo Baadshah
+236~Billu Barber
+237~Bin Badal Barsaat
+238~Bin Phere Hum Tere
+239~Biwi Ho To Aisi
+240~Biwi No. 1
+241~Black & White
+242~Blackmail
+243~Blood Money
+244~Blue
+245~Bluffmaster
+246~Bobby
+247~Bobby Jasoos
+248~Bodyguard
+249~Bol Bachchan
+250~Bol Radha Bol
+251~Bollywood Diaries
+252~Bombai Ka Babu
+253~Bombay Boys
+254~Bombay Talkies
+255~Bombay To Bangkok
+256~Bombay To Goa
+257~Bombay Velvet
+258~Bond 303
+259~Boom
+260~Border
+261~Border Hindustan Ka
+262~Boss
+263~Boy Friend
+264~Brahma
+265~Break Ke Baad
+266~Brothers
+267~Budtameez
+268~Bullett Raja
+269~Bulundi
+270~Bumper Draw
+271~Bundal Baaz
+272~Bunty Aur Babli
+273~C Kkompany
+274~C.I.D.
+275~Calendar Girls
+276~Cash
+277~Chaalbaaz
+278~Chaand Kaa Tukdaa
+279~Chaar Din Ki Chandni
+280~Chacha Bhatija
+281~Chacha Chowdhary
+282~Chachi 420
+283~Chak De India
+284~Chakravyuh
+285~Chal Mere Bhai
+286~Chala Mussaddi Office Office
+287~Chalo America
+288~Chalo Ishq Ladaaye
+289~Chalte Chalte
+290~Chamatkar
+291~Chambal Ki Kasam
+292~Chameli Ki Shaadi
+293~Champion
+294~Chance Pe Dance
+295~Chand Ke Paar Chalo
+296~Chandi Sona
+297~Chandni
+298~Chandni Bar
+299~Chandni Chowk to China
+300~Chandra Mukhi
+301~Charas
+302~Charlie Kay Chakkar Mein
+303~Chashme Baddoor (2013)
+304~Chashme Buddoor (1981)
+305~Chauraha
+306~Cheeni Kum
+307~Cheetah
+308~Chef
+309~Chennai Express
+310~Chhailla Babu
+311~Chhalia
+312~Chhote Sarkar
+313~Chhoti Si Baat
+314~Chhoti Si Mulaqat
+315~Chillar Party
+316~China Gate
+317~China Town
+318~Chingaari
+319~Chirag
+320~Chocolate
+321~Chor Machaaye Shor
+322~Chor Pe Mor
+323~Chori Chori Chupke Chupke
+324~Chupke Chupke
+325~Chura Liyaa Hai Tumne
+326~Cocktail
+327~Coffee With D
+328~Commando (1988)
+329~Commando (2013)
+330~Commando 2
+331~Company
+332~Coolie
+333~Coolie No. 1
+334~Corporate
+335~Crook
+336~D-Day
+337~D: Underworld Badhshah
+338~Daag: The Fire
+339~Daas Dev
+340~Daava
+341~Daawat-e-Ishq
+342~Dabangg
+343~Dabangg 2
+344~Dacait
+345~Dadagiri
+346~Daddy
+347~Dahek
+348~Damini
+349~Dana Paani
+350~Dangal
+351~Dangerous Ishhq
+352~Dangerous Khiladi
+353~Dard
+354~Dard-E-Dil
+355~Darling
+356~Darna Zaroori Hai
+357~Darr
+358~Dastak
+359~Dasvidaniya
+360~Daulat Ki Jung
+361~David
+362~Dayavan
+363~Days of Tafree
+364~De Dana Dan
+365~De Taali
+366~Dear Zindagi
+367~Dedh Ishqiya
+368~Deedar
+369~Deewaanapan
+370~Deewaar (1975)
+371~Deewaar (2004)
+372~Deewana
+373~Deewana Mastana
+374~Deewana Mujh Sa Nahin
+375~Deewane
+376~Deewane Huye Paagal
+377~Deewangee
+378~Delhi Belly
+379~Delhi-6
+380~Department
+381~Des Pardes
+382~Desh Drohi
+383~Desh Premee
+384~Deshwasi
+385~Desi Boyz
+386~Desi Kattey
+387~Dev
+388~Dev D
+389~Devata
+390~Devdas (1955)
+391~Devdas (2002)
+392~Dhaai Akshar Prem Ke
+393~Dhaal
+394~Dhadkan
+395~Dhamaal
+396~Dhan Dhana Dhan Goal
+397~Dharam Adhikari
+398~Dharam Karam
+399~Dharam Veer
+400~Dharmatma
+401~Dharti Kahe Pukar Ke
+402~Dhartiputra
+403~Dhol
+404~Dhoom
+405~Dhoom 2
+406~Dhoom 3
+407~Dhoop
+408~Dhoop Chhaon
+409~Dhoti Lota Aur Chowpatty
+410~Dil
+411~Dil Aashna Hai
+412~Dil Apna Aur Preet Parai
+413~Dil Bole Hadippa
+414~Dil Chahta Hai
+415~Dil Deke Dekho
+416~Dil Dhadakne Do
+417~Dil Diya Dard Liya
+418~Dil Dosti Etc
+419~Dil Hai Ke Manta Nahin
+420~Dil Hai Tumhara
+421~Dil Hi To Hai
+422~Dil Jo Bhi Kahey
+423~Dil Juunglee
+424~Dil Ka Kya Kasoor
+425~Dil Ka Rishta
+426~Dil Maange More
+427~Dil Ne Jise Apna Kahaa
+428~Dil Ne Phir Yaad Kiya
+429~Dil Se
+430~Dil Tera Aashiq
+431~Dil Tera Diwana
+432~Dil To Pagal Hai
+433~Dil Toh Baccha Hai Ji
+434~Dil Vil Pyar Vyar
+435~Dil-E-Nadaan
+436~Diljale
+437~Dillagi
+438~Dilli Ka Thug
+439~Dilwale (1994)
+440~Dilwale (2015)
+441~Dilwale Dulhania Le Jayenge
+442~Direct Ishq
+443~Dirty Politics
+444~Disco Dancer
+445~Dishkiyaoon
+446~Dishoom
+447~Divorce
+448~Divya Shakti
+449~Diya Aur Toofan
+450~Do Aankhen Barah Hath
+451~Do Aur Do Paanch
+452~Do Badan
+453~Do Dooni Chaar
+454~Do Knot Disturb
+455~Do Lafzon Ki Kahani
+456~Do Numbri
+457~Dobaara: See Your Evil
+458~Doli Saja Ke Rakhna
+459~Dolly Ki Doli
+460~Don (1978)
+461~Don (2006)
+462~Don 2
+463~Don No. 1
+464~Dongri Ka Raja
+465~Doodh Ka Karz
+466~Dost (1974)
+467~Dost (1989)
+468~Dostana
+469~Dosti: Friends Forever
+470~Double Dhamaal
+471~Dream Girl
+472~Drishyam
+473~Dulaara
+474~Dulha Mil Gaya
+475~Dulhan Hum Le Jayenge
+476~Dulhe Raja
+477~Dum
+478~Dum Maaro Dum
+479~Duniya Meri Jeb Mein
+480~Duplicate
+481~Dus
+482~Dus Kahaniyaan
+483~Dushman
+484~Dushman Devta
+485~Dushman Duniya Ka
+486~Earth
+487~Ehsaas
+488~Ek Ajnabee
+489~Ek Aur Ek Gyarah
+490~Ek Chalis Ki Last Local
+491~Ek Dil Sau Afsane
+492~Ek Duuje Ke Liye
+493~Ek Khiladi Ek Haseena
+494~Ek Ladka Ek Ladki
+495~Ek Mahal Ho Sapno Ka
+496~Ek Main Aur Ekk Tu
+497~Ek Musafir Ek Hasina
+498~Ek Nari Ek Brahmachari
+499~Ek Nazar
+500~Ek Paheli Leela
+501~Ek Rishtaa
+502~Ek Se Badhkar Ek
+503~Ek Tha Raja
+504~Ek Tha Tiger
+505~Ek Thi Daayan
+506~Ek Villain
+507~Ek: The Power Of One
+508~Ekk Deewana Tha
+509~Ekka Raja Rani
+510~Ekkees Toppon Ki Salaami
+511~Eklavya: The Royal Guard
+512~Elaan
+513~Elaan-E-Jung
+514~EMI: Liya Hai To Chukana Padega
+515~Enemmy
+516~English Babu Desi Mem
+517~English Vinglish
+518~Entertainment
+519~F.A.L.T.U
+520~Fakira
+521~Fan
+522~Fanaa
+523~Faraar
+524~Fareb
+525~Farz
+526~Farz Aur Kanoon
+527~Fashion
+528~Fatso
+529~Fever
+530~Fida
+531~Fitoor
+532~Fiza
+533~Fool N Final
+534~Footpath
+535~Force
+536~Force 2
+537~Fox
+538~Freaky Ali
+539~Fruit & Nut
+540~Fugly
+541~Fukrey
+542~Fukrey Returns
+543~Fun2shh: Dudes in the 10th Century
+544~Funtoosh
+545~Gabbar Is Back
+546~Gadar: Ek Prem Katha
+547~Gair
+548~Gaja Gamini
+549~Gali Gali Chor Hai
+550~Gambler
+551~Gandhi My Father
+552~Gandhi to Hitler
+553~Gandhigiri
+554~Gang of Ghosts
+555~Ganga Ki Saugand
+556~Gangaa Jamunaa Saraswati
+557~Gangaajal
+558~Gangs Of Wasseypur
+559~Gangs Of Wasseypur II
+560~Gangster
+561~Garam Masala
+562~Gardish
+563~Garv
+564~Gautam Govinda
+565~Geet Gaaya Pattharon Ne
+566~Geraftaar
+567~Ghajini
+568~Ghar Ho To Aisa
+569~Ghar Mein Ram Gali Mein Shyam
+570~Ghar Sansar
+571~Gharwali Baharwali
+572~Ghatak
+573~Ghayal
+574~Ghayal Once Again
+575~Ghulam
+576~Ghulam Begam Badshah
+577~Ghulam-E-Musthafa
+578~Global Baba
+579~Go Goa Gone
+580~God and Gun
+581~God Tussi Great Ho
+582~Godmother
+583~Gola Barood
+584~Goliyon Ki Raasleela Ram-Leela
+585~Golmaal
+586~Golmaal 3
+587~Golmaal Again
+588~Golmaal Returns
+589~Golmaal: Fun Unlimited
+590~Good Boy Bad Boy
+591~Goonj
+592~Goonj Uthi Shehnai
+593~Gopi Kishan
+594~Gopichand Jasoos
+595~Gora Aur Kala
+596~Gori Tere Pyaar Mein
+597~Grand Masti
+598~Great Grand Masti
+599~Guddu
+600~Guddu Ki Gun
+601~Guddu Rangeela
+602~Guest Iin London
+603~Guide
+604~Gulaab Gang
+605~Gulaal
+606~Gunaah
+607~Gunda
+608~Gundagardi
+609~Gundaraj
+610~Gunday
+611~Gupt
+612~Guru
+613~Guru Suleman Chela Pahelwan
+614~Gurudev
+615~Guzaarish
+616~Haathi Mere Saathi
+617~Haathkadi
+618~Haatim Tai
+619~Hadh Kar Di Aapne
+620~Haider
+621~Halaal Ki Kamai
+622~Half Girlfriend
+623~Halla Bol
+624~Hamara Dil Aapke Paas Hai
+625~Hamari Adhuri Kahani
+626~Happy Ending
+627~Happy New Year
+628~Haqeeqat
+629~Har Dil Jo Pyar Karega
+630~Har Har Mahadev
+631~Hariyali Aur Rasta
+632~Hasee Toh Phasee
+633~Haseena Maan Jaayegi
+634~Haseena Parkar
+635~Hasti
+636~Hate Story
+637~Hate Story 2
+638~Hate Story 3
+639~Hate Story 4
+640~Hathyar
+641~Hatyara
+642~Haunted
+643~Hawaa Hawaai
+644~Hawaizaada
+645~Hawalaat
+646~Hazaaron Khwaishein Aisi
+647~Heartless
+648~Heer Raanjha
+649~Heera
+650~Heera Lal Panna Lal
+651~Heera Panna
+652~Hello Brother
+653~Hello Hum Lallan Bol Rahe Hain
+654~Hera Pheri (1976)
+655~Hera Pheri (2000)
+656~Hero (1983)
+657~Hero (2015)
+658~Hero Hiralal
+659~Hero No. 1
+660~Heroes
+661~Heroine
+662~Heropanti
+663~Hey Ram
+664~Heyy Babyy
+665~Hichki
+666~Hifazat
+667~Himalay Ki Godmein
+668~Himmatwala (1983)
+669~Himmatwala (2013)
+670~Hindi Medium
+671~Hindustan Ki Kasam (1973)
+672~Hindustan Ki Kasam (1999)
+673~Hitler
+674~Hogi Pyaar Ki Jeet
+675~Holiday
+676~Honeymoon Travels Pvt. Ltd.
+677~Hope Aur Hum
+678~Housefull
+679~Housefull 2
+680~Housefull 3
+681~Hu Tu Tu
+682~Hukumat
+683~Hulchul (1995)
+684~Hulchul (2004)
+685~Hum
+686~Hum Aapke Dil Mein Rehte Hain
+687~Hum Aapke Hain Koun
+688~Hum Dil De Chuke Sanam
+689~Hum Dono
+690~Hum Hain Bemisaal
+691~Hum Hain Kamaal Ke
+692~Hum Hain Rahi Pyar Ke
+693~Hum Ho Gaye Aap Ke
+694~Hum Kisise Kum Nahin
+695~Hum Paanch
+696~Hum Saath Saath Hain
+697~Hum Se Na Takrana
+698~Hum To Mohabbat Karega
+699~Hum Tum
+700~Hum Tum Pe Marte Hain
+701~Hum Tum Shabana
+702~Hum Tumhare Hain Sanam
+703~Humjoli
+704~Humko Deewana Kar Gaye
+705~Humko Tumse Pyaar Hai
+706~Humpty Sharma Ki Dulhania
+707~Humraaz
+708~Humse Badhkar Kaun
+709~Humse Hai Muqabla
+710~Humshakals
+711~Hungama
+712~Hunterrr
+713~Hyderabad Blues
+714~I Hate Luv Storys
+715~I M 24
+716~I, Me aur Main
+717~Ilaaka
+718~Ilzaam
+719~Imtihaan
+720~Inaam Dus Hazaar
+721~Indian
+722~Indrajeet
+723~Indu Sarkar
+724~Inkaar
+725~Inquilaab
+726~Insaaf Ki Devi
+727~Insaniyat
+728~Insaniyat Ke Devta
+729~International Khiladi
+730~Iqbal
+731~Irada
+732~Ishaqzaade
+733~Ishk Ishk Ishk
+734~Ishkq in Paris
+735~Ishq
+736~Ishq Click
+737~Ishq Hai Tumse
+738~Ishq Junoon
+739~Ishq Vishk
+740~Ishqiya
+741~Isi Ka Naam Zindagi
+742~Iski Topi Uske Sarr
+743~Itihaas
+744~Ittefaq (2001)
+745~Ittefaq (2017)
+746~Jaadugar
+747~Jaagruti
+748~Jaal
+749~Jaal: The Trap
+750~Jaan
+751~Jaanam Samjha Karo
+752~Jaane Bhi Do Yaaro
+753~Jaane Tu Ya Jaane Na
+754~Jaani Dushman
+755~Jaani Dushman: Ek Anokhi Kahani
+756~Jaanwar
+757~Jaanwar Aur Insaan
+758~Jab Harry Met Sejal
+759~Jab Jab Phool Khile
+760~Jab Pyaar Kisise Hota Hai
+761~Jab Tak Hai Jaan
+762~Jab We Met
+763~Jackpot
+764~Jagga Jasoos
+765~Jagte Raho
+766~Jai Gangaajal
+767~Jai Ho
+768~Jai Veeru: Friends Forever
+769~Jail
+770~Jaisi Karni Waisi Bharni
+771~Jajantaram Mamantaram
+772~Jallaad
+773~Jalwa
+774~Jamai Raja
+775~Janam Kundli
+776~Janasheen
+777~Janbaaz
+778~Jangal Mein Mangal
+779~Jannat
+780~Jannat 2
+781~Janta Hawaldar
+782~Jawani Diwani
+783~Jawani Zindabad
+784~Jayantabhai Ki Luv Story
+785~Jazbaa
+786~Jeans
+787~Jeena Isi Ka Naam Hai
+788~Jeena Sirf Merre Liye
+789~Jeene Nahi Doonga
+790~Jeet
+791~Jeete Hain Shaan Se
+792~Jeevan Daata
+793~Jeevan Ek Sanghursh
+794~Jeevan Ki Shatranj
+795~Jeevan Mrityu
+796~Jhankaar Beats
+797~Jhoom Barabar Jhoom
+798~Jhooth Bole Kauwa Kaate
+799~Jhumroo
+800~Jigar
+801~Jis Desh Mein Ganga Behti Hai
+802~Jis Desh Mein Ganga Rehta Hai
+803~Jism
+804~Jism 2
+805~Jo Bole So Nihaal
+806~Jo Jeeta Wohi Sikandar
+807~Jodhaa Akbar
+808~Jodi Breakers
+809~Jodi No. 1
+810~Joggers Park
+811~Johar Mehmood in Hong Kong
+812~John Day
+813~John Jani Janardhan
+814~Johnny Gaddaar
+815~Johny Mera Naam
+816~Joker
+817~Jolly LLB
+818~Jolly LLB 2
+819~Joroo Ka Ghulam
+820~Joru Ka Ghulam
+821~Josh
+822~Joshilaay
+823~Judaai
+824~Judge Mujrim
+825~Judwaa
+826~Judwaa 2
+827~Julie
+828~Julie 2
+829~Jung (1996)
+830~Jung (2000)
+831~Jung Baaz
+832~Junglee
+833~Junooniyat
+834~Jurm (1990)
+835~Jurm (2005)
+836~Jurmana
+837~Just Married
+838~Justice Chowdhary
+839~Jwalamukhi
+840~Jwar Bhata
+841~Kaabil
+842~Kaafila
+843~Kaagaz Ke Phool
+844~Kaal
+845~Kaal Chakra
+846~Kaala Patthar
+847~Kaala Samrajya
+848~Kaalakaandi
+849~Kaalia
+850~Kaante
+851~Kabali
+852~Kabhi Alvida Naa Kehna
+853~Kabhi Haan Kabhi Naa
+854~Kabhi Kabhie
+855~Kabhi Khushi Kabhie Gham
+856~Kachche Dhaage
+857~Kahin Pyaar Na Ho Jaaye
+858~Kaho Naa Pyaar Hai
+859~Kal Aaj Aur Kal
+860~Kal Ho Naa Ho
+861~Kala Bazaar
+862~Kalicharan
+863~Kalyug
+864~Kamaal Dhamaal Malamaal
+865~Kambakkht Ishq
+866~Kaminey
+867~Kapoor And Sons
+868~Karam
+869~Karan Arjun
+870~Karma
+871~Kartoos
+872~Karz
+873~Karzzzz
+874~Kasam Paida Karne Wale Ki
+875~Kasauti
+876~Kasme Vaade
+877~Kasoor
+878~Kath Putli
+879~Kati Patang
+880~Kaun Apna Kaun Paraya
+881~Keemat
+882~Khakee
+883~Khalifa
+884~Khalnayak
+885~Khamoshi: The Musical
+886~Khamoshiyan
+887~Khatron Ke Khiladi
+888~Khatta Meetha
+889~Khauff
+890~Khel
+891~Khel Khel Mein
+892~Khelein Hum Jee Jaan Sey
+893~Khichdi: The Movie
+894~Khiladi
+895~Khiladi 420
+896~Khiladi 786
+897~Khiladiyon Ka Khiladi
+898~Khoj
+899~Khoobsurat
+900~Khoon Bhari Maang
+901~Khoon Pasina
+902~Khooni Ilaaka
+903~Khosla Ka Ghosla
+904~Khote Sikkay
+905~Khoya Khoya Chand
+906~Khubsoorat
+907~Khuda Gawah
+908~Khuda Kasam
+909~Khuddar
+910~Khudgarz
+911~Khwahish
+912~Ki And Ka
+913~Kick
+914~Kidnap
+915~Kill Dil
+916~Kis Kis Ki Kismat
+917~Kis Kisko Pyaar Karoon
+918~Kishen Kanhaiya
+919~Kismat Konnection
+920~Kismat Love Paisa Dilli
+921~Kisna
+922~Kissa Kursi Ka
+923~Kisse Pyaar Karoon
+924~Kites
+925~Kitne Door Kitne Paas
+926~Knock Out
+927~Kohram
+928~Koi Mere Dil Se Poochhe
+929~Koi Mil Gaya
+930~Koyelaanchal
+931~Koyla
+932~Kranti (1981)
+933~Kranti (2002)
+934~Krantiveer
+935~Krazzy 4
+936~Krishna
+937~Kroadh
+938~Krodhi
+939~Krrish
+940~Krrish 3
+941~Kshatriya
+942~Kuch Khatti Kuch Meethi
+943~Kuch Kuch Hota Hai
+944~Kuch Kuch Locha Hai
+945~Kuch Naa Kaho
+946~Kuch Tum Kaho Kuch Hum Kahein
+947~Kuchh Meetha Ho Jaye
+948~Kudiyon Ka Hai Zamaana
+949~Kudrat (1981)
+950~Kudrat (1998)
+951~Kunwara
+952~Kunwara Baap
+953~Kurbaan
+954~Kurukshetra
+955~Kya Dilli Kya Lahore
+956~Kya Kehna
+957~Kya Love Story Hai
+958~Kya Yehi Pyaar Hai
+959~Kyaa Dil Ne Kahaa
+960~Kyaa Kool Hai Hum
+961~Kyaa Kool Hain Hum 3
+962~Kyaa Super Kool Hain Hum
+963~Kyo Kii Main Jhuth Nahin Bolta
+964~Kyon Ki
+965~Kyun Ho Gaya Na
+966~Laaga Chunari Mein Daag
+967~Laat Saab
+968~Laawaris (1981)
+969~Laawaris (1999)
+970~Ladies Tailor
+971~Ladies vs Ricky Bahl
+972~Lafangey Parindey
+973~Lagaan
+974~Lage Raho Munna Bhai
+975~Lahoo Ke Do Rang
+976~Laila Majnu
+977~Lajja
+978~Lakeer
+979~Lakeer ka Fakeer
+980~Lal Baadshah
+981~Lal Dupatta Malmal Ka
+982~Lamhe
+983~Leader
+984~Lekar Hum Deewana Dil
+985~Life In A Metro
+986~Life Ki Toh Lag Gayi
+987~Life Mein Kabhie Kabhiee
+988~Life Partner
+989~Lingaa
+990~Loafer (1973)
+991~Loafer (1996)
+992~LOC Kargil
+993~Loha
+994~Lok Parlok
+995~London Dreams
+996~London Paris New York
+997~Loot
+998~Lootera
+999~Lootere
+1000~Love
+1001~Love 86
+1002~Love Aaj Kal
+1003~Love And God
+1004~Love Breakups Zindagi
+1005~Love Games
+1006~Love In Tokyo
+1007~Love Ke Liye Kuch Bhi Karega
+1008~Love Love Love
+1009~Love Marriage
+1010~Love Sex Aur Dhokha
+1011~Love Shagun
+1012~Love Story 2050
+1013~Love U Mr. Kalakaar
+1014~Luck
+1015~Luck By Chance
+1016~Lucknow Central
+1017~Lucky Kabootar
+1018~Lucky: No Time for Love
+1019~Luv Ka The End
+1020~Luv Shuv Tey Chicken Khurana
+1021~M.S. Dhoni: The Untold Story
+1022~Maa
+1023~Maa Tujhhe Salaam
+1024~Maalamaal
+1025~Maan Gaye Mughall-e-Azam
+1026~Maatr
+1027~Machine
+1028~Madam X
+1029~Madhoshi
+1030~Madras Cafe
+1031~Mafia
+1032~Magadheera
+1033~Mahaadev
+1034~Mahaan
+1035~Mahaanta
+1036~Mahabharat
+1037~Maharaja
+1038~Maharathi
+1039~Mahaveera
+1040~Maidan-E-Jung
+1041~Main Aisa Hi Hoon
+1042~Main Aur Charles
+1043~Main Aurr Mrs Khanna
+1044~Main Azaad Hoon
+1045~Main Hoon Na
+1046~Main Khiladi Tu Anari
+1047~Main Meri Patni Aur Woh
+1048~Main Prem Ki Diwani Hoon
+1049~Main Solah Baras Ki
+1050~Main Tera Hero
+1051~Main Tulsi Tere Aangan Ki
+1052~Maine Dil Tujhko Diya
+1053~Maine Pyaar Kyun Kiya
+1054~Maine Pyar Kiya
+1055~Majboor
+1056~Major Saab
+1057~Malaamal Weekly
+1058~Mangal Pandey
+1059~Manjhi: The Mountain Man
+1060~Mann
+1061~Maqbool
+1062~Maqsad
+1063~Mard
+1064~Mardaani
+1065~Marte Dam Tak
+1066~Mary Kom
+1067~Maryada
+1068~Maseeha
+1069~Mashaal
+1070~Mashooq
+1071~Masoom
+1072~Mast
+1073~Masti
+1074~Mastizaade
+1075~Mausam (1975)
+1076~Mausam (2011)
+1077~Mawaali
+1078~Mawali No.1
+1079~Maximum
+1080~Mehbooba
+1081~Mela
+1082~Mera Desh Mera Dharam
+1083~Mera Gaon Mera Desh
+1084~Mera Naam Joker
+1085~Mera Pati Sirf Mera Hai
+1086~Mera Saaya
+1087~Mere Baap Pehle Aap
+1088~Mere Brother Ki Dulhan
+1089~Mere Dad Ki Maruti
+1090~Mere Do Anmol Ratan
+1091~Mere Dost Picture Abhi Baki Hai
+1092~Mere Hamdam Mere Dost
+1093~Mere Jeevan Saathi (1972)
+1094~Mere Jeevan Saathi (2006)
+1095~Mere Mehboob
+1096~Mere Yaar Ki Shaadi Hai
+1097~Meri Biwi Ka Jawab Nahin
+1098~Meri Jung
+1099~Meri Pyaari Bindu
+1100~Mickey Virus
+1101~Milap
+1102~Milenge Milenge
+1103~Mili
+1104~Military Raaj
+1105~Mirch Masala
+1106~Mirza Ghalib
+1107~Mirzya
+1108~Misaal
+1109~Miss 420
+1110~Mission Istaanbul
+1111~Mission Kashmir
+1112~Mitti Aur Sona
+1113~Mohabbatein
+1114~Mohenjo Daro
+1115~Mohra
+1116~Mom
+1117~Money Hai Toh Honey Hai
+1118~Monsoon Shootout
+1119~Mother
+1120~Mother India
+1121~Mr Ya Miss
+1122~Mr. & Mrs. Khiladi
+1123~Mr. Bechara
+1124~Mr. Bond
+1125~Mr. India
+1126~Mr. Natwarlal
+1127~Mr. X
+1128~Mrityudaata
+1129~Mrityudand
+1130~MSG The Warrior: Lion Heart
+1131~MSG-2: The Messenger
+1132~MSG: The Messenger
+1133~Mubarakan
+1134~Mughal-E-Azam
+1135~Mujhse Dosti Karoge
+1136~Mujhse Fraaandship Karoge
+1137~Mujhse Shaadi Karogi
+1138~Mukkabaaz
+1139~Mulzim
+1140~Mumbai Can Dance Saalaa
+1141~Munna Bhai MBBS
+1142~Munna Michael
+1143~Muqabla
+1144~Muqaddar Ka Badshaah
+1145~Muqaddar Ka Sikandar
+1146~Murder
+1147~Murder 2
+1148~Murder 3
+1149~Musafir
+1150~Muskaan
+1151~My Name Is Khan
+1152~Na Tum Jaano Na Hum
+1153~Naajayaz
+1154~Naam
+1155~Naam Shabana
+1156~Nachnewale Gaanewale
+1157~Nagin
+1158~Naksha
+1159~Namak
+1160~Namak Halaal
+1161~Namak Haraam
+1162~Namastey London
+1163~Nanu Ki Jaanu
+1164~Naqaab
+1165~Narsimha
+1166~Naseeb (1981)
+1167~Naseeb (1997)
+1168~Nastik
+1169~Naughty @ 40
+1170~Naukar Biwi Ka
+1171~Nautanki Saala
+1172~Naya Andaz
+1173~Naya Daur (1957)
+1174~Naya Daur (1978)
+1175~Nayak
+1176~Nayee Padosan
+1177~Nazar
+1178~Nazrana
+1179~Neal 'N' Nikki
+1180~Neel Kamal
+1181~Neerja
+1182~Nehlle Pe Dehlla
+1183~Netaji Subhas Chandra Bose: The Forgotten Hero
+1184~New York
+1185~Newton
+1186~Nikaah
+1187~Nirdosh (1973)
+1188~Nirdosh (2018)
+1189~Nishana
+1190~Nishchaiy
+1191~No Entry
+1192~No One Killed Jessica
+1193~No Problem
+1194~Noor
+1195~Noorie
+1196~Oh Darling Yeh Hai India
+1197~Oh My God
+1198~Ok Jaanu
+1199~Om Jai Jagadish
+1200~Om Shanti Om
+1201~Omkara
+1202~Once Upon A Time In Mumbaai
+1203~Once Upon A Time In Mumbaai Dobara
+1204~One 2 Ka 4
+1205~One Night Stand
+1206~One Two Three
+1207~Oonche Log
+1208~Out of Control
+1209~Oye Lucky Lucky Oye
+1210~Paa
+1211~Paap
+1212~Paap Ko Jalaa Kar Raakh Kar Doonga
+1213~Paathshaala
+1214~Padmaavat
+1215~Padman
+1216~Padmashree Laloo Prasad Yadav
+1217~Padosan
+1218~Paigham
+1219~Paisa Vasool
+1220~Pakeezah
+1221~Papi Pet Ka Sawal Hai
+1222~Parampara
+1223~Parched
+1224~Pardes
+1225~Pardesi Babu
+1226~Parichay
+1227~Parinda
+1228~Parineeta
+1229~Partition: 1947
+1230~Partner
+1231~Parvarish
+1232~Parwana
+1233~Patel Ki Punjabi Shaadi
+1234~Pati Parmeshwar
+1235~Patiala House
+1236~Patthar Ke Phool
+1237~Patthar Ke Sanam
+1238~Paying Guests
+1239~Peepli Live
+1240~Pehchaan
+1241~Pehla Nasha
+1242~Phamous
+1243~Phas Gaye Re Obama
+1244~Phata Poster Nikhla Hero
+1245~Phillauri
+1246~Phir Bhi Dil Hai Hindustani
+1247~Phir Hera Pheri
+1248~Phir Teri Kahani Yaad Aayee
+1249~Phool Aur Kaante
+1250~Phool Bane Angaray
+1251~Phool Khile Hain Gulshan Gulshan
+1252~Piku
+1253~Pink
+1254~PK
+1255~Plan
+1256~Platform
+1257~Players
+1258~Pocket Maar
+1259~Police Force: An Inside Story
+1260~Police Public
+1261~Policegiri
+1262~Policewala Gunda
+1263~Ponga Pandit
+1264~Poster Boys
+1265~Praan Jaye Par Shaan Na Jaye
+1266~Pran Jaye Par Vachan Na Jaye
+1267~Pratighaat
+1268~Pratikar
+1269~Prem Aggan
+1270~Prem Deewane
+1271~Prem Granth
+1272~Prem Kaa Game
+1273~Prem Patra
+1274~Prem Pratigyaa
+1275~Prem Qaidi
+1276~Prem Ratan Dhan Payo
+1277~Prem Rog
+1278~Prince
+1279~Prithvi
+1280~Pukar (1983)
+1281~Pukar (2000)
+1282~Purab Aur Pachhim
+1283~Purani Haveli
+1284~Purani Jeans
+1285~Pyaar Impossible
+1286~Pyaar Ishq Aur Mohabbat
+1287~Pyaar Ka Punchnama
+1288~Pyaar Ka Punchnama 2
+1289~Pyaar Ke Side Effects
+1290~Pyaar Kiya To Darna Kya
+1291~Pyaar Koi Khel Nahin
+1292~Pyaar Mein Kabhi Kabhi
+1293~Pyaar To Hona Hi Tha
+1294~Pyaar Tune Kya Kiya
+1295~Pyaasa (1957)
+1296~Pyaasa (2002)
+1297~Pyasi Sham
+1298~Qahar
+1299~Qaid Mein Hai Bulbul
+1300~Qaidi
+1301~Qaidi No. 911
+1302~Qarib Qarib Singlle
+1303~Qatil
+1304~Qayamat
+1305~Qayamat Se Qayamat Tak
+1306~Qila
+1307~Queen
+1308~Qurbani
+1309~R Rajkumar
+1310~Ra.One
+1311~Raabta
+1312~Raaj Tilak
+1313~Raajneeti
+1314~Raampur Ka Lakshman
+1315~Raanjhanaa
+1316~Raat Gayi Baat Gayi?
+1317~Raavan
+1318~Raaz
+1319~Raaz 3
+1320~Raaz Reboot
+1321~Raaz: The Mystery Continues
+1322~Raazi
+1323~Rab Ne Bana Di Jodi
+1324~Rabba Main Kya Karoon
+1325~Race
+1326~Race 2
+1327~Race 3
+1328~Radha Ka Sangam
+1329~Raees
+1330~Rafoo Chakkar
+1331~Raghu Romeo
+1332~Raghuveer
+1333~Ragini MMS
+1334~Ragini MMS 2
+1335~Raid
+1336~Raja Aur Runk
+1337~Raja Babu
+1338~Raja Hindustani
+1339~Raja Ki Aayegi Baaraat
+1340~Raja Ko Rani Se Pyar Ho Gaya
+1341~Raja Natwarlal
+1342~Rajaji
+1343~Rajjo
+1344~Raju Ban Gaya Gentleman
+1345~Raju Chacha
+1346~Rakht Charitra
+1347~Rakht Charitra 2
+1348~Rakshak
+1349~Ram Aur Shyam
+1350~Ram Avtar
+1351~Ram Balram
+1352~Ram Gopal Varma Ki Aag
+1353~Ram Jaane
+1354~Ram Lakhan
+1355~Ram Teri Ganga Maili
+1356~Rama Rama Kya Hai Dramaaa
+1357~Ramaiya Vastavaiya
+1358~Raman Raghav 2.0
+1359~Ramji Londonwaley
+1360~Rang
+1361~Rang De Basanti
+1362~Rang Rasiya
+1363~Rangeela
+1364~Rangoli
+1365~Rangoon
+1366~Rangrezz
+1367~Rann
+1368~Raqeeb
+1369~Rascals
+1370~Razia Sultan
+1371~Ready
+1372~Red Alert: The War Within
+1373~Red: The Dark Side
+1374~Refugee
+1375~Rehnaa Hai Terre Dil Mein
+1376~Reshma and Shera
+1377~Revolver Rani
+1378~Rishtey
+1379~Risk
+1380~Road
+1381~Robot
+1382~Rock On
+1383~Rock On 2
+1384~Rocket Singh: Salesman Of The Year
+1385~Rockstar
+1386~Rocky
+1387~Rocky Handsome
+1388~Roop Ki Rani Choron Ka Raja
+1389~Roop Tera Mastana
+1390~Roti
+1391~Roti Kapada Aur Makaan
+1392~Rowdy Rathore
+1393~Roy
+1394~Rudraksh
+1395~Rules: Pyaar Ka Superhit Formula
+1396~Run
+1397~Running Shaadi
+1398~Rush
+1399~Rustom
+1400~Saajan
+1401~Saajan Chale Sasural
+1402~Saare Jahaan Se Mehnga
+1403~Saas Bhi Kabhi Bahu Thi
+1404~Saat Hindustani
+1405~Saat Uchakkey
+1406~Saathi
+1407~Saathiya
+1408~Saawan: The Love Season
+1409~Saawariya
+1410~Sabse Bada Rupaiya
+1411~Sachin: A Billion Dreams
+1412~Sadak
+1413~Sadak Chhap
+1414~Safar
+1415~Saheb Biwi Aur Gangster
+1416~Saheb Biwi Aur Gangster Returns
+1417~Sahi Dhandhe Galat Bande
+1418~Sailaab
+1419~Sainik
+1420~Salaam Namaste
+1421~Salaam-E-Ishq
+1422~Salaami
+1423~Samadhi
+1424~Samay: When Time Strikes
+1425~Samraat
+1426~Samrat & Co.
+1427~San 75 (Pachattar)
+1428~Sanam
+1429~Sanam Bewafa
+1430~Sanam Re
+1431~Sanam Teri Kasam (1982)
+1432~Sanam Teri Kasam (2016)
+1433~Sangam
+1434~Sangdil
+1435~Sanju
+1436~Sapno Ka Saudagar
+1437~Sapoot
+1438~Saraswatichandra
+1439~Sarbjit
+1440~Sardar
+1441~Sardari Begum
+1442~Sarfarosh
+1443~Sargam
+1444~Sarhad Paar
+1445~Sarkar
+1446~Sarkar 3
+1447~Sarkar Raj
+1448~Sarphira
+1449~Satte Pe Satta
+1450~Satya
+1451~Satya 2
+1452~Satyagraha
+1453~Satyam Shivam Sundaram
+1454~Satyamev Jayate
+1455~Sau Din Saas Ke
+1456~Saudagar
+1457~Saugandh
+1458~Second Hand Husband
+1459~Secret Superstar
+1460~Seeta Aur Geeta
+1461~Shaadi Ka Laddoo
+1462~Shaadi Karke Phas Gaya Yaar
+1463~Shaadi Ke Side Effects
+1464~Shaadi Mein Zaroor Aana
+1465~Shaadi No. 1
+1466~Shaadi Se Pehle
+1467~Shaan
+1468~Shaandaar
+1469~Shaapit
+1470~Shaheed
+1471~Shahenshah
+1472~Shaitan
+1473~Shakti
+1474~Shalimar
+1475~Shamitabh
+1476~Shandar
+1477~Shapath
+1478~Sharaabi
+1479~Sharafat Gayi Tel Lene
+1480~Sharmilee
+1481~Shatranj
+1482~Shaukeen
+1483~Shaurya
+1484~Sheesh Mahal
+1485~Sherdil
+1486~Sherni
+1487~Sheshnaag
+1488~Shikhar
+1489~Shirdi Ke Sai Baba
+1490~Shivaay
+1491~Shola Aur Shabnam
+1492~Sholay
+1493~Shootout At Lokhandwala
+1494~Shootout At Wadala
+1495~Shor
+1496~Shor In The City
+1497~Short Kut: The Con Is On
+1498~Shortcut Romeo
+1499~Shree 420
+1500~Shreemaan Aashique
+1501~Shubh Mangal Saavdhan
+1502~Shuddh Desi Romance
+1503~Silsila
+1504~Silsila Hai Pyar Ka
+1505~Simran
+1506~Singh Is Bliing
+1507~Singh Is Kinng
+1508~Singh Saab The Great
+1509~Singham
+1510~Singham Returns
+1511~Sirf Tum
+1512~Sivaji: The Boss
+1513~Smuggler
+1514~Socha Na Tha
+1515~Sohni Mahiwal
+1516~Soldier
+1517~Son Of Sardaar
+1518~Sona Spa
+1519~Sone Pe Suhaaga
+1520~Sonu Ke Titu Ki Sweety
+1521~Sooryavansham
+1522~Souten
+1523~Special 26
+1524~Straight
+1525~Student Of The Year
+1526~Style
+1527~Suhaag
+1528~Sultan
+1529~Sunday
+1530~Sunghursh
+1531~Sunny
+1532~Super Model
+1533~Superman
+1534~Superstar
+1535~Sur: The Melody of Life
+1536~Surakshaa
+1537~Suryaa
+1538~Suryavanshi
+1539~Swades
+1540~Swami
+1541~Swarg
+1542~Sweetiee Weds NRI
+1543~Ta Ra Rum Pum
+1544~Taal
+1545~Taare Zameen Par
+1546~Table No. 21
+1547~Tahalka
+1548~Taj Mahal: An Eternal Love Story
+1549~Takkar
+1550~Talaash
+1551~Talvar
+1552~Tamanchey
+1553~Tamasha (1952)
+1554~Tamasha (2015)
+1555~Tango Charlie
+1556~Tanu Weds Manu
+1557~Tanu Weds Manu Returns
+1558~Tapasya
+1559~Taqdeer Ka Badshah
+1560~Taqdeerwala
+1561~Tarana
+1562~Tarazu
+1563~Tarkieb
+1564~Tashan
+1565~Tawaif
+1566~Taxi Driver
+1567~Taxi No. 9211
+1568~Team: The Force
+1569~Teen Patti
+1570~Tees Maar Khan
+1571~Teesri Aankh: The Hidden Camera
+1572~Teesri Manzil
+1573~Tejasvini
+1574~Tera Jadoo Chal Gayaa
+1575~Tera Mera Saath Rahen
+1576~Teraa Surroor
+1577~Tere Mere Phere
+1578~Tere Naal Love Ho Gaya
+1579~Tere Naam
+1580~Teri Meherbaniyan
+1581~Teri Meri Kahaani
+1582~Teri Payal Mere Geet
+1583~Tevar
+1584~Tezaab
+1585~Tezz
+1586~Thakshak
+1587~Thanedaar
+1588~Thank You
+1589~Thanks Maa
+1590~The Angrez
+1591~The Dirty Picture
+1592~The Don
+1593~The Ghazi Attack
+1594~The Great Gambler
+1595~The Hero: Love Story of a Spy
+1596~The Killer
+1597~The Legend Of Bhagat Singh
+1598~The Train (1970)
+1599~The Train (2007)
+1600~The Xpose
+1601~Thoda Pyaar Thoda Magic
+1602~Thodi Life Thoda Magic
+1603~Thodisi Bewafaii
+1604~Tiger Zinda Hai
+1605~Tirangaa
+1606~Tirchhi Topiwale
+1607~Toilet: Ek Prem Katha
+1608~Toofan
+1609~Traffic Signal
+1610~Train to Pakistan
+1611~Tridev
+1612~Trimurti
+1613~Trinetra
+1614~Trishul
+1615~Tu Chor Main Sipahi
+1616~Tubelight
+1617~Tum Bin
+1618~Tum Bin 2
+1619~Tum Haseen Main Jawan
+1620~Tum Mere Ho
+1621~Tum Mile
+1622~Tum Se Achcha Kaun Hai
+1623~Tumko Na Bhool Paayenge
+1624~Tumsa Nahin Dekha
+1625~Tumse Achha Kaun Hai
+1626~Tutak Tutak Tutiya
+1627~Tyaag
+1628~Tyaagi
+1629~U Me Aur Hum
+1630~Udaan
+1631~Udhaar Ki Zindagi
+1632~Udhar Ka Sindur
+1633~Udta Punjab
+1634~Ugly Aur Pagli
+1635~Ulta Seedha
+1636~Umar 55 Ki Dil Bachpan Ka
+1637~Umrao Jaan
+1638~Ungli
+1639~Upkar
+1640~Uran Khatola
+1641~Ustadon Ke Ustad (1963)
+1642~Ustadon Ke Ustad (1998)
+1643~Uttar Dakshin
+1644~Uuf Kya Jaadoo Mohabbat Hai
+1645~Uvaa
+1646~Vaah! Life Ho Toh Aisi!
+1647~Vaastav
+1648~Vansh
+1649~Veer
+1650~Veer Zaara
+1651~Veere Di Wedding
+1652~Veerey Ki Wedding
+1653~Veergati
+1654~Veeru Dada
+1655~Vicky Donor
+1656~Victoria No. 203
+1657~Victory
+1658~Vidhaata
+1659~Vijaypath
+1660~Vijeta
+1661~Vinashak
+1662~Virasat
+1663~Virrudh
+1664~Vishwanath
+1665~Vishwasghaat
+1666~Vishwatma
+1667~Vivah
+1668~Vodka Diaries
+1669~Waah! Tera Kya Kehna
+1670~Wajah Tum Ho
+1671~Wajood
+1672~Wake Up Sid
+1673~Wanted
+1674~Waqt
+1675~Waqt Hamara Hai
+1676~Waqt: The Race Against Time
+1677~War Chhod Na Yaar
+1678~Wardat
+1679~Waris
+1680~Watan Ke Rakhwale
+1681~Wazir
+1682~We Are Family
+1683~Wedding Anniversary
+1684~Welcome
+1685~Welcome Back
+1686~Welcome to Sajjanpur
+1687~Well Done Abba
+1688~What's Your Raashee?
+1689~Will You Marry Me
+1690~Woh 7 Din
+1691~Xcuse Me
+1692~Yaadein
+1693~Yaadon Ki Baaraat
+1694~Yaar Gaddar
+1695~Yaarana (1981)
+1696~Yaarana (1995)
+1697~Yaariyan
+1698~Yahudi
+1699~Yakeen
+1700~Yalgaar
+1701~Yamla Pagla Deewana
+1702~Yamla Pagla Deewana 2
+1703~Yamraaj
+1704~Yateem
+1705~Yatra
+1706~Ye Gulistan Hamara
+1707~Yeh Aag Kab Bujhegi
+1708~Yeh Dillagi
+1709~Yeh Hai Jalwa
+1710~Yeh Hai Mumbai Meri Jaan
+1711~Yeh Jawaani Hai Deewani
+1712~Yeh Kya Ho Raha Hai?
+1713~Yeh Lamhe Judaai Ke
+1714~Yeh Raaste Hain Pyaar Ke
+1715~Yeh Saali Zindagi
+1716~Yes Boss
+1717~Yeshwant
+1718~Yodha
+1719~Youngistaan
+1720~Yudh
+1721~Yugpurush
+1722~Yuva
+1723~Yuvvraaj
+1724~Zahreelay
+1725~Zakhm
+1726~Zakhmi Aurat
+1727~Zalzala
+1728~Zamaana Deewana
+1729~Zamane Se Kya Darna
+1730~Zameen
+1731~Zameer
+1732~Zanjeer (1973)
+1733~Zanjeer (2013)
+1734~Zid
+1735~Ziddi
+1736~Zila Ghaziabad
+1737~Zinda
+1738~Zindagi 50 50
+1739~Zindagi Na Milegi Dobara
+1740~Zor
+1741~Zorro
+1742~Zubeidaa
+1743~Zulm Ki Hukumat
+1744~Zulmi
+1745~100 Days
+1746~102 Not Out
+1747~16 December
+1748~1920: Evil Returns
+1749~1921
+1750~1942: A Love Story
+1751~2 States
+1752~23rd March 1931: Shaheed
+1753~3 Dev
+1754~3 Idiots
+1755~3 Storeys
+1756~31st October
+1757~36 China Town
+1758~36 Ghante
+1759~7 Khoon Maaf
+1760~8 x 10 Tasveer
